@@ -1,0 +1,26 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "THis is namaste react by akshay saini",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajputavinash864/React.git"
+  },
+  "keywords": [],
+  "author": "Avinash Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajputavinash864/React/issues"
+  },
+  "homepage": "https://github.com/rajputavinash864/React#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserlist":[
+    "Last 2 version "
+  ]
+}
